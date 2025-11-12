@@ -11,7 +11,7 @@ public class Cheers {
                                 aAn = "an ";
                         }
                         else {
-                                aAn = "a ";                               
+                                aAn = "a  ";                               
                         }
                         System.out.println(giveMeString + aAn + letter + ": " + letter + "!");
                 }   
